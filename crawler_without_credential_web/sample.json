@@ -1,0 +1,6 @@
+{
+    "url": "https://example.com/",
+    "timeout": 10,
+    "max_threads": 10,
+    "depth": 3
+   }

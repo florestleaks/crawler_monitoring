@@ -1,0 +1,1 @@
+{"url": "https://www.example-basic.com", "timeout": 10, "max_threads": 10, "depth": 3, "auth_type": "basic", "credentials": {"username": "user1", "password": "password1"}}

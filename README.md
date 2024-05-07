@@ -1,4 +1,5 @@
 # crawler_monitoring
+```python
 basic_auth_document = {
     'url': 'https://www.example-basic.com',
     'timeout': 10,
@@ -29,3 +30,4 @@ form_auth_document = {
     'form_data': {'username_field': 'user3', 'password_field': 'password3', 'other_field': 'value'},
     'credentials': {}  # Credentials might not be stored directly in the document for form-based auth
 }
+```
